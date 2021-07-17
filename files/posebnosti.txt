@@ -1,0 +1,3 @@
+Posebnosti
+- Obvezna bo uporaba lokacije na mobilni napravi
+- Obveznen bo dostop do internetne povezave (WiFi ali podatki)
